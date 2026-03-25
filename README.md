@@ -6,6 +6,8 @@ O **Jarvis** é um bot desenvolvido em Python com foco em automação, moderaç�
 
 O projeto foi criado com o objetivo de demonstrar conhecimentos em programação, eventos assíncronos e manipulação de dados, utilizando uma estrutura simples e funcional.
 
+O nome foi pensado em referência a IA utilizada por Tony Stark, da Marvel.
+
 ---
 
 ## 🚀 Funcionalidades
